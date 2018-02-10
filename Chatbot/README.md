@@ -1,7 +1,13 @@
 # Chatbot!
 
-## Our favorite AI nemesis, HAL9000 vs. Dave Bowman
-
+## Conversation
+Carolyn: "I want to schedule a study group."
+Robot: "Who do you want to invite?"
+Carolyn: "Please invite people who have time available on Wednesday 11AM."
+Robot: "Here are the people who have an opening on their calendar: Names."
+Carolyn: "Please send an invite to their email."
+Robot:  Three anwsers.
+      
 * Construct a chatbot that responds to various inputs from Dave
 * Feel free to use the HTML and CSS scaffolds or construct your own
 * Be creative with your logic and responses!
